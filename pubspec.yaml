@@ -1,0 +1,8 @@
+name: fundash
+version: 0.0.1-dev
+description: >-
+  Adds some convenience utilities that are not present in the standard library yet.
+repository: https://github.com/fundash/fundash
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
